@@ -7,10 +7,12 @@
 	- [Windows 7](#win7)
 	- [Windows Vista](#vista)
 - [Office](#office)
+	- [Office 2019](#2019)
 	- [Office 2016](#2016)
 	- [Office 2013](#2013)
 	- [Office 2010](#2010)
 - [Server](#server)
+	- [Windows Server 2019](#srv2019)
 	- [Windows Server 2016](#srv2016)
 	- [Windows Server 2012R2](#srv2012r2)
 	- [Windows Server 2012](#srv2012)
@@ -18,6 +20,7 @@
 	- [Windows Server 2008](#srv2008)
 
 >>##Source
+- https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys
 - https://technet.microsoft.com/en-us/library/jj612867.aspx
 - https://technet.microsoft.com/en-us/library/dn385360(v=office.16).aspx
 - https://technet.microsoft.com/en-us/library/dn385360.aspx
@@ -63,6 +66,22 @@
 - Windows Vista Enterprise N:```VTC42-BM838-43QHV-84HX6-XJXKV```
 
 ##Office
+###Office 2019  [↑TOP](#top)
+- Office Professional Plus 2019:```NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP```
+- Office Standard 2019:```6NWWJ-YQWMR-QKGCB-6TMB3-9D9HK```
+- Project Professional 2019:```B4NPR-3FKK7-T2MBV-FRQ4W-PKD2B```
+- Project Standard 2019:```C4F7P-NCP8C-6CQPT-MQHV9-JXD2M```
+- Visio Professional 2019:```9BGNQ-K37YR-RQHF2-38RQ3-7VCBB```
+- Visio Standard 2019:```7TQNQ-K3YQQ-3PFH7-CCPPM-X4VQ2```
+- Access 2019:```9N9PT-27V4Y-VJ2PD-YXFMF-YTFQT```
+- Excel 2019:```TMJWT-YYNMB-3BKTF-644FC-RVXBD```
+- OneNote 2019:```7HD7K-N4PVK-BHBCQ-YWQRW-XW4VK```
+- Outlook 2019:```R69KK-NTPKF-7M3Q4-QYBHW-6MT9B```
+- PowerPoint 2019:```RRNCX-C64HY-W2MM7-MCH9G-TJHMQ```
+- Publisher 2019:```G2KWX-3NW6P-PY93R-JXK2T-C9Y9V```
+- Skype for Business 2019:```NCJ33-JHBBY-HTK98-MYCV8-HMKHJ```
+- Word 2019:```PBX3G-NWMT6-Q7XBW-PYJGG-WXD33```
+
 ###Office 2016  [↑TOP](#top)
 - Office Professional Plus 2016:```XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99```
 - Office Standard 2016:```JNRGM-WHDWX-FJJG3-K47QV-DRTFM```
@@ -115,6 +134,11 @@
 - Visio Standard 2010:```767HD-QGMWX-8QTDB-9G3R2-KHFGJ```
 
 ##Server
+###Windows Server 2019  [↑TOP](#top)
+- Windows Server 2019 Datacenter:```WMDGN-G9PQG-XVVXX-R3X43-63DFG```
+- Windows Server 2019 Standard:```N69G4-B89J2-4G8F4-WWYCC-J464C```
+- Windows Server 2019 Essentials:```WVDHN-86M7X-466P6-VHXV7-YY726```
+
 ###Windows Server 2016  [↑TOP](#top)
 - Windows Server 2016 Datacenter:```CB7KF-BWN84-R7R2Y-793K2-8XDDG```
 - Windows Server 2016 Standard:```WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY```
